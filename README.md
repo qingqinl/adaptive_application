@@ -1,2 +1,3 @@
-# adaptive_application
-movie recommendation system
+# movie_recommender
+MovieLens based recommender system
+
